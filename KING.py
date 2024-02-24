@@ -250,7 +250,7 @@ $$ |  $$ |$$ |  $$ |$$ | \_/ $$ |$$$$$$$$\ $$$$$$$  |
                \033[1;97mGITHUB       :  TVAHMED
                \033[1;91mSTATUS       :   PATA NHI H YAR😴            
                \033[1;97mTEAM         :  INSHALLAH  KHABI BANAO GA            
-               \033[1;91mTOOL VIRSION  :  1.2                 
+               \033[1;91mTOOL VIRSION  :  1.5                
                \033[1;97mTOOL WORK    :  ONLY  DATA  _WIFI KA PTA NHI         
       └━━━━━━━━━━━━━━━━━ H4CKER ━━━━━━━━━━━━━━━━━┘
 """)
